@@ -1,0 +1,9 @@
+bin/
+obj/
+*.exe
+*.dll
+*.cache
+*.suo
+*.user
+.vs/
+*.pdb
