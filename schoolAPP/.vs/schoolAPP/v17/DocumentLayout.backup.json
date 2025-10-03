@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Acer\\source\\repos\\schoolAPP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1A501D87-B1AD-44F0-82ED-95EA9A60FF09}|schoolAPP\\schoolAPP.csproj|c:\\users\\acer\\source\\repos\\schoolapp\\schoolapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A501D87-B1AD-44F0-82ED-95EA9A60FF09}|schoolAPP\\schoolAPP.csproj|solutionrelative:schoolapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A501D87-B1AD-44F0-82ED-95EA9A60FF09}|schoolAPP\\schoolAPP.csproj|c:\\users\\acer\\source\\repos\\schoolapp\\schoolapp\\data\\schooldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A501D87-B1AD-44F0-82ED-95EA9A60FF09}|schoolAPP\\schoolAPP.csproj|solutionrelative:schoolapp\\data\\schooldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A501D87-B1AD-44F0-82ED-95EA9A60FF09}|schoolAPP\\schoolAPP.csproj|c:\\users\\acer\\source\\repos\\schoolapp\\schoolapp\\services\\teacherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A501D87-B1AD-44F0-82ED-95EA9A60FF09}|schoolAPP\\schoolAPP.csproj|solutionrelative:schoolapp\\services\\teacherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A501D87-B1AD-44F0-82ED-95EA9A60FF09}|schoolAPP\\schoolAPP.csproj|c:\\users\\acer\\source\\repos\\schoolapp\\schoolapp\\models\\pupil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A501D87-B1AD-44F0-82ED-95EA9A60FF09}|schoolAPP\\schoolAPP.csproj|solutionrelative:schoolapp\\models\\pupil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A501D87-B1AD-44F0-82ED-95EA9A60FF09}|schoolAPP\\schoolAPP.csproj|c:\\users\\acer\\source\\repos\\schoolapp\\schoolapp\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A501D87-B1AD-44F0-82ED-95EA9A60FF09}|schoolAPP\\schoolAPP.csproj|solutionrelative:schoolapp\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\schoolAPP\\schoolAPP\\Program.cs",
+              "RelativeDocumentMoniker": "schoolAPP\\Program.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\schoolAPP\\schoolAPP\\Program.cs",
+              "RelativeToolTip": "schoolAPP\\Program.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwCYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T04:57:02.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SchoolDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\schoolAPP\\schoolAPP\\Data\\SchoolDbContext.cs",
+              "RelativeDocumentMoniker": "schoolAPP\\Data\\SchoolDbContext.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\schoolAPP\\schoolAPP\\Data\\SchoolDbContext.cs",
+              "RelativeToolTip": "schoolAPP\\Data\\SchoolDbContext.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA5wA4AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T05:02:43.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\schoolAPP\\schoolAPP\\Models\\Teacher.cs",
+              "RelativeDocumentMoniker": "schoolAPP\\Models\\Teacher.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\schoolAPP\\schoolAPP\\Models\\Teacher.cs",
+              "RelativeToolTip": "schoolAPP\\Models\\Teacher.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T05:01:01.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TeacherService.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\schoolAPP\\schoolAPP\\Services\\TeacherService.cs",
+              "RelativeDocumentMoniker": "schoolAPP\\Services\\TeacherService.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\schoolAPP\\schoolAPP\\Services\\TeacherService.cs",
+              "RelativeToolTip": "schoolAPP\\Services\\TeacherService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T05:01:54.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Pupil.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\schoolAPP\\schoolAPP\\Models\\Pupil.cs",
+              "RelativeDocumentMoniker": "schoolAPP\\Models\\Pupil.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\schoolAPP\\schoolAPP\\Models\\Pupil.cs",
+              "RelativeToolTip": "schoolAPP\\Models\\Pupil.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA8wBIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T05:01:23.618Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
